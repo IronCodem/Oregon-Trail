@@ -1,9 +1,9 @@
 currentYear=2021
 newLine=
-sigSymbol_1=/￣￣￣\ 
-sigSymbol_2=[      ]        [ ]
-sigSymbol_3=[      ]        [ ]
-sigSymbol_4=\______/    
+spons_1=/￣￣￣    # just
+spons_2=[ ] [ ]    # another
+spons_3=[ ] [ ]    # hearty
+spons_4=______/   # sponsor
 
 # Preface
 echo Heylo, who is dis?
@@ -31,7 +31,7 @@ echo [] ========================== []
 echo [] coolcoder-js -- YashasShah []
 echo [] ========================== []
 echo [][][][][][][][][][][][][][][][]
-echo $newLine
+# WARNING: 
 echo $newLine
 echo $newLine
 echo $newLine
@@ -39,3 +39,20 @@ echo $newLine
 # Plot
 # > Choose job
 echo Pick a job:
+echo Banker from Boston
+echo Carpenter from Ohio
+echo Farmer from Illinois
+read job
+
+echo You are a $job...
+if [[ $job = banker ]]; then
+  echo You have 800 coins!
+fi
+
+if [[ $job = carpenter ]]; then
+  echo You have 600 coins!
+fi
+
+if [[ $job = farmer ]]; then
+  echo You have 400 coins!
+fi
