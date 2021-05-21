@@ -47,12 +47,15 @@ read job
 echo You are a $job...
 if [[ $job = banker ]]; then
   echo You have 800 coins!
+  echo $newLine
 fi
 
 if [[ $job = carpenter ]]; then
   echo You have 600 coins!
+  echo $newLine
 fi
 
 if [[ $job = farmer ]]; then
   echo You have 400 coins!
+  echo $newLine
 fi
