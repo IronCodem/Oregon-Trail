@@ -4,6 +4,11 @@ spons_1=/￣￣￣    # just
 spons_2=[ ] [ ]    # another
 spons_3=[ ] [ ]    # hearty
 spons_4=______/   # sponsor
+yoke=🐂
+wagon_1=__[━━━━━━]
+wagon_2=-┻━❂━━━❂━┻-
+#                    __[━━━━━━]
+# Final wagon: # 🐂-┻━❂━━━❂━┻-
 
 # Preface
 echo Heylo, who is dis?
@@ -47,15 +52,15 @@ read job
 echo You are a $job...
 if [[ $job = banker ]]; then
   echo You have 800 coins!
-  echo $newLine
+	echo $newLine
 fi
 
 if [[ $job = carpenter ]]; then
   echo You have 600 coins!
-  echo $newLine
+	echo $newLine
 fi
 
 if [[ $job = farmer ]]; then
   echo You have 400 coins!
-  echo $newLine
+	echo $newLine
 fi
