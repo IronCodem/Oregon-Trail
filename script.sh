@@ -9,6 +9,13 @@ wagon_1=__[━━━━━━]
 wagon_2=-┻━❂━━━❂━┻-
 #                    __[━━━━━━]
 # Final wagon: # 🐂-┻━❂━━━❂━┻-
+lang=Shell
+langSecondary=Bash
+
+# <^>
+
+echo Made with $lang, $langSecondary!
+echo $newLine
 
 # Preface
 echo Heylo, who is dis?
