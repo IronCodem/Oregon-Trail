@@ -1,9 +1,5 @@
 currentYear=2021
 newLine=
-spons_1=/￣￣￣    # just
-spons_2=[ ] [ ]    # another
-spons_3=[ ] [ ]    # hearty
-spons_4=______/   # sponsor
 yoke=🐂
 wagon_1=__[━━━━━━]
 wagon_2=-┻━❂━━━❂━┻-
@@ -40,7 +36,7 @@ echo [][][][][][][][][][][][][][][][]
 echo [] ========================== []
 echo [] OREGON TRAIL-.BASH EDITION []
 echo [] ========================== []
-echo [] coolcoder-js -- YashasShah []
+echo [] === G0RG3 - YashasShah === []
 echo [] ========================== []
 echo [][][][][][][][][][][][][][][][]
 # WARNING: 
