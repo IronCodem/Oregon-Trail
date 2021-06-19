@@ -10,4 +10,4 @@ This remake offers almost the same experience as the original game.
 
 ## Contribute
 Contributions are welcome!
-Be sure to visit `cont.md` to learn how.
+Be sure to visit [`cont.md`](https://github.com/Tr1angular/Oregon-Trail/blob/main/cont.md) to learn how.
