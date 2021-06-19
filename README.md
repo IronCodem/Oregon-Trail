@@ -8,5 +8,6 @@ The Oregon Trail is a series of educational computer games. The first game was o
 This remake offers almost the same experience as the original game.
 
 
-
-> Contributions are welcome! <3
+## Contribute
+Contributions are welcome!
+Be sure to visit `cont.md` to learn how.
