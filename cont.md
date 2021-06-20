@@ -9,4 +9,4 @@ Simple steps for an acceptable contribution:
 
 Done!
 
-###### NOTICE: Please wait ~24 hours if you live in the eastern hemisphere for me to check, thank you!
+> NOTICE: Please wait ~24 hours if you live in the eastern hemisphere for me to check, thank you!
