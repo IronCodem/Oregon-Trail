@@ -1,7 +1,7 @@
 # Contributions
 
 Simple steps for an acceptable contribution:
-1. Fork **Oregon-Trail** repo
+1. Fork this repo
 2. Edit `script.sh` file
 3. Open a PR (Pull Request)
 4. Give it a relevant title
